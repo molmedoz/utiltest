@@ -1,0 +1,5 @@
+node_modules
+/.project
+*.log
+/doc
+.DS_Store
