@@ -5,7 +5,7 @@ utiltest provides functionality for testing, saving time for developing automati
 ## Install
 
 ```bash
-$ npm install git+https://gitlab:987Luxy@gitlab.movoto.com/git/utiltest.git<#<version>>
+$ npm install utiltest<@<version>>
 ```
 ## Modules
 

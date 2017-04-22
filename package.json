@@ -12,6 +12,10 @@
   ],
   "author": "molmedoz",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/npm/npm.git"
+  },
   "dependencies": {
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
