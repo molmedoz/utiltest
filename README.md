@@ -5,7 +5,7 @@ utiltest provides functionality for testing, saving time for developing automati
 ## Install
 
 ```bash
-$ npm install utiltest<@<version>>
+$ npm install utiltest
 ```
 ## Modules
 
